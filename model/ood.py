@@ -3,7 +3,6 @@ from typing import List, Optional
 import math
 
 import joblib
-import pytorch_ood.detector as ood_detectors
 import torch
 import torch.functional as F
 from scipy.stats import norm
